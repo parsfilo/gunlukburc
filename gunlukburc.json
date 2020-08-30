@@ -1,0 +1,86 @@
+[
+  {
+    "isim": "Koç",
+    "tarih": "21 Mart - 19 Nisan",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Boğa",
+    "kalori": "20 Nisan - 20 Mayıs",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "İkizler",
+    "kalori": "21 Mayıs - 21 Haziran",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Yengeç",
+    "kalori": "22 Haziran - 22 Temmuz",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Aslan",
+    "kalori": "23 Temmuz - 22 Ağustos",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Başak",
+    "kalori": "23 Ağustos - 22 Eylül",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Terazi",
+    "kalori": "23 Eylül - 22 Ekim",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Akrep",
+    "kalori": "23 Ekim - 21 Kasım",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Yay",
+    "kalori": "22 Kasım - 21 Aralık",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+  {
+    "isim": "Oğlak",
+    "kalori": "22 Aralık - 19 Ocak",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+    {
+    "isim": "Kova",
+    "kalori": "20 Ocak - 18 Şubat",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  },
+    {
+    "isim": "Balık",
+    "kalori": "19 Şubat - 20 Mart",
+    "yorum": "Burç Yorum",
+    "yayintarih": "Burç Tarih",
+    "gorsel": "test.com"
+  }
+]
