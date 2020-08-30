@@ -8,77 +8,77 @@
   },
   {
     "isim": "Boğa",
-    "kalori": "20 Nisan - 20 Mayıs",
+    "tarih": "20 Nisan - 20 Mayıs",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/boga.gif"
   },
   {
     "isim": "İkizler",
-    "kalori": "21 Mayıs - 21 Haziran",
+    "tarih": "21 Mayıs - 21 Haziran",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/ikizler.gif"
   },
   {
     "isim": "Yengeç",
-    "kalori": "22 Haziran - 22 Temmuz",
+    "tarih": "22 Haziran - 22 Temmuz",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/yengec.gif"
   },
   {
     "isim": "Aslan",
-    "kalori": "23 Temmuz - 22 Ağustos",
+    "tarih": "23 Temmuz - 22 Ağustos",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/aslan.gif"
   },
   {
     "isim": "Başak",
-    "kalori": "23 Ağustos - 22 Eylül",
+    "tarih": "23 Ağustos - 22 Eylül",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/basak.gif"
   },
   {
     "isim": "Terazi",
-    "kalori": "23 Eylül - 22 Ekim",
+    "tarih": "23 Eylül - 22 Ekim",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/terazi.gif"
   },
   {
     "isim": "Akrep",
-    "kalori": "23 Ekim - 21 Kasım",
+    "tarih": "23 Ekim - 21 Kasım",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/akrep.gif"
   },
   {
     "isim": "Yay",
-    "kalori": "22 Kasım - 21 Aralık",
+    "tarih": "22 Kasım - 21 Aralık",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/yay.gif"
   },
   {
     "isim": "Oğlak",
-    "kalori": "22 Aralık - 19 Ocak",
+    "tarih": "22 Aralık - 19 Ocak",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/oglak.gif"
   },
     {
     "isim": "Kova",
-    "kalori": "20 Ocak - 18 Şubat",
+    "tarih": "20 Ocak - 18 Şubat",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/kova.gif"
   },
     {
     "isim": "Balık",
-    "kalori": "19 Şubat - 20 Mart",
+    "tarih": "19 Şubat - 20 Mart",
     "yorum": "Burç Yorum",
     "yayintarih": "Burç Tarih",
     "gorsel": "https://raw.githubusercontent.com/parsfilo/gunlukburc/master/balik.gif"
